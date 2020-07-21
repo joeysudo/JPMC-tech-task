@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
 <a href="https://www.insidesherpa.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/Technology%20Virtual%20Experience" target="_blank">
 <img src="https://insidesherpa-assets.s3-ap-southeast-2.amazonaws.com/icons/jpmorgan/github+repo+images/jpmc+github+img.png">
@@ -63,3 +64,6 @@ Open http://localhost:3000 to view the app in the browser. The page will reload 
 
 <h2>How to submit your work</h2>
 <p>A patch file is what is required from you to submit. To create a patch file, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/create_patch_file_v3a.pdf">follow this guide</a>. Then submit the patch file in the <a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/88AisH7iuw3L5N5ig">JPM Module 2 Page</a>.</p>
+=======
+# JPMC-tech-task
+>>>>>>> 7561414f1ed921bf4a57e1549e1a3e4ae0a019ab
